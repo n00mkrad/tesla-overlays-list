@@ -1,14 +1,10 @@
-# List of Tesla Overlays
-
-- WIP 
-
-
+# General
 
 ## Tesla-Menu
 
-Description: Default overlay, used to select others.  
-Author: [WerWolv](https://github.com/WerWolv)  
-Links: [GitHub](https://github.com/WerWolv/Tesla-Menu), [GBATemp Thread](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
+**Description:** Default overlay, used to select others.  
+**Author:** [WerWolv](https://github.com/WerWolv)  
+**Links:** [GitHub](https://github.com/WerWolv/Tesla-Menu), [GBATemp Thread](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
 
 
 
@@ -22,14 +18,33 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 ## ovl-sysmodules
 
-Description: Toggle enabled sysmodules on the fly.  
-Author: [WerWolv](https://github.com/WerWolv)  
-Links: [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
+**Description:** Toggle enabled sysmodules on the fly.  
+**Author:** [WerWolv](https://github.com/WerWolv)  
+**Links:** [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
 
 
 
 ## sys-clk-Overlay
 
-Description: Allows you to edit your sys-clk configuration in-game. Changes are applied almost instantly and can be verified by checking the EdiZon overlay's stats screen.  
-Author: [Sun Research University](https://github.com/Sun-Research-University)  
-Links: [GitHub](https://github.com/Sun-Research-University/sys-clk-Overlay)  
+**Description:** Allows you to edit your sys-clk configuration in-game. Changes are applied almost instantly and can be verified by checking the EdiZon overlay's stats screen.  
+**Author:** [Sun Research University](https://github.com/Sun-Research-University)  
+**Links:** [GitHub](https://github.com/Sun-Research-University/sys-clk-Overlay)  
+
+
+
+## TextReaderOverlay-NX
+
+**Description:** A Text Reader Overlay for Nintendo Switch  
+**Author:** [Dickson Wong](https://github.com/diwo)
+**Links:** [GitHub](https://github.com/diwo/TextReaderOverlay-NX)
+
+
+
+# Game-specific
+
+## CaptureSight
+
+**Description:** Applet and Overlay to view Pokemon, Raid seeds, Future shiny frames/IVs, and more!   
+**Author:** [zaksabeast](https://github.com/zaksabeast)
+**Links:** [GitHub](https://github.com/zaksabeast/CaptureSight)
+
