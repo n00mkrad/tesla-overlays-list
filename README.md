@@ -1,4 +1,4 @@
-# General
+# General Overlays
 
 ## Tesla-Menu
 
@@ -20,7 +20,7 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 **Description:** Toggle enabled sysmodules on the fly.  
 **Author:** [WerWolv](https://github.com/WerWolv)  
-**Links:** [GitHub](https://github.com/WerWolv/ovl-sysmodules)  
+**Links:** [GitHub](https://github.com/WerWolv/ovl-sysmodules), [GBATemp Thread](https://gbatemp.net/threads/ovl-sysmodules-a-tesla-overlay-to-toggle-sysmodules.557455/)
 
 
 
@@ -40,11 +40,19 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
-# Game-specific
+## ShareNX Overlay
+
+**Description:** Share your last screenshot while ingame  
+**Author:** [HookedBehemoth](https://github.com/HookedBehemoth)
+**Links:** [GitHub](https://github.com/HookedBehemoth/ShareNX-Overlay)
+
+
+
+# Game-specific Overlays
 
 ## CaptureSight
 
 **Description:** Applet and Overlay to view Pokemon, Raid seeds, Future shiny frames/IVs, and more!   
 **Author:** [zaksabeast](https://github.com/zaksabeast)
-**Links:** [GitHub](https://github.com/zaksabeast/CaptureSight)
+**Links:** [GitHub](https://github.com/zaksabeast/CaptureSight), [GBATemp Thread](https://gbatemp.net/threads/capturesight-applet-and-overlay-to-view-pokemon-raid-seeds-future-shiny-frames-ivs-and-more.557679/)
 
