@@ -1,30 +1,30 @@
-# General Overlays
+## System Utilities
 
-## Tesla-Menu
+### Tesla-Menu
 
 **Description:** Default overlay, used to select others.  
 **Author:** [WerWolv](https://github.com/WerWolv)  
-**Links:** [GitHub](https://github.com/WerWolv/Tesla-Menu), [GBATemp Thread](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
+**Links:** [GitHub](https://github.com/WerWolv/Tesla-Menu), [GBATemp](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
 
 
 
-## EdiZon
+### EdiZon
 
 Description: Overlay version of WerWolv's EdiZon save management/editing tool.  
 Author: [WerWolv](https://github.com/WerWolv)  
-Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATemp Thread](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
+Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATemp](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
 
 
 
-## ovl-sysmodules
+### ovl-sysmodules
 
 **Description:** Toggle enabled sysmodules on the fly.  
 **Author:** [WerWolv](https://github.com/WerWolv)  
-**Links:** [GitHub](https://github.com/WerWolv/ovl-sysmodules), [GBATemp Thread](https://gbatemp.net/threads/ovl-sysmodules-a-tesla-overlay-to-toggle-sysmodules.557455/)
+**Links:** [GitHub](https://github.com/WerWolv/ovl-sysmodules), [GBATemp](https://gbatemp.net/threads/ovl-sysmodules-a-tesla-overlay-to-toggle-sysmodules.557455/)
 
 
 
-## sys-clk-Overlay
+### sys-clk-Overlay
 
 **Description:** Allows you to edit your sys-clk configuration in-game. Changes are applied almost instantly and can be verified by checking the EdiZon overlay's stats screen.  
 **Author:** [Sun Research University](https://github.com/Sun-Research-University)  
@@ -32,7 +32,17 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
-## TextReaderOverlay-NX
+### Status Monitor Overlay
+
+**Description:** Displays various system/hardware stats. *Very WIP as of Feb 2020.*  
+**Author:** [masagrator](https://github.com/masagrator)
+**Links:** [GitHub](https://github.com/masagrator/Status-Monitor-Overlay), [GBATemp](https://gbatemp.net/threads/status-monitor-overlay-tesla-overlay-to-monitor-your-hardware.558505/)
+
+
+
+## General Utilities
+
+### TextReaderOverlay-NX
 
 **Description:** A Text Reader Overlay for Nintendo Switch  
 **Author:** [Dickson Wong](https://github.com/diwo)  
@@ -40,7 +50,7 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
-## ShareNX Overlay
+### ShareNX Overlay
 
 **Description:** Share your last screenshot while ingame  
 **Author:** [HookedBehemoth](https://github.com/HookedBehemoth)  
@@ -48,11 +58,11 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
-# Game-specific Overlays
+## Game-specific Overlays
 
-## CaptureSight
+### CaptureSight
 
 **Description:** Applet and Overlay to view Pokemon, Raid seeds, Future shiny frames/IVs, and more!   
 **Author:** [zaksabeast](https://github.com/zaksabeast)  
-**Links:** [GitHub](https://github.com/zaksabeast/CaptureSight), [GBATemp Thread](https://gbatemp.net/threads/capturesight-applet-and-overlay-to-view-pokemon-raid-seeds-future-shiny-frames-ivs-and-more.557679/)
+**Links:** [GitHub](https://github.com/zaksabeast/CaptureSight), [GBATemp](https://gbatemp.net/threads/capturesight-applet-and-overlay-to-view-pokemon-raid-seeds-future-shiny-frames-ivs-and-more.557679/)
 
