@@ -34,7 +34,7 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 ### Status Monitor Overlay
 
-**Description:** Displays various system/hardware stats. *Very WIP as of Feb 2020.*  
+**Description:** Displays various system/hardware stats. Can also display framerate using [NX-FPS](https://github.com/masagrator/NX-FPS).  
 **Author:** [masagrator](https://github.com/masagrator)
 **Links:** [GitHub](https://github.com/masagrator/Status-Monitor-Overlay), [GBATemp](https://gbatemp.net/threads/status-monitor-overlay-tesla-overlay-to-monitor-your-hardware.558505/)
 
