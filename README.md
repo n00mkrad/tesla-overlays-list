@@ -66,3 +66,11 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 **Author:** [zaksabeast](https://github.com/zaksabeast)  
 **Links:** [GitHub](https://github.com/zaksabeast/CaptureSight), [GBATemp](https://gbatemp.net/threads/capturesight-applet-and-overlay-to-view-pokemon-raid-seeds-future-shiny-frames-ivs-and-more.557679/)
 
+
+
+### MEGAHAKUS
+
+**Description:** Tesla overlay with various hacks for 初音ミク Project DIVA MEGA39's.
+**Author:** [nastys](https://github.com/nastys)
+**Links:** [GitHub](https://github.com/nastys/MEGAHAKUS)
+
