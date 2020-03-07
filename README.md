@@ -70,7 +70,7 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 ### MEGAHAKUS
 
-**Description:** Tesla overlay with various hacks for 初音ミク Project DIVA MEGA39's.
-**Author:** [nastys](https://github.com/nastys)
+**Description:** Tesla overlay with various hacks for 初音ミク Project DIVA MEGA39's.  
+**Author:** [nastys](https://github.com/nastys)  
 **Links:** [GitHub](https://github.com/nastys/MEGAHAKUS)
 
