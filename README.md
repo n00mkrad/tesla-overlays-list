@@ -1,4 +1,4 @@
-## System Utilities
+## Required Overlays
 
 ### Tesla-Menu
 
@@ -8,11 +8,13 @@
 
 
 
-### EdiZon
+## System Utilities
 
-Description: Overlay version of WerWolv's EdiZon save management/editing tool.  
-Author: [WerWolv](https://github.com/WerWolv)  
-Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATemp](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
+### fastCFWswitch
+
+**Description:** An overlay to boot into different payloads.  
+**Author:** [Hartie95](https://github.com/Hartie95)  
+**Links:** [GitHub](https://github.com/Hartie95/fastCFWswitch), [GBATemp](https://gbatemp.net/threads/overlay-fastcfwswitch.562451/)
 
 
 
@@ -24,11 +26,11 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
-### sys-clk-Overlay
+### QuickNTP
 
-**Description:** Allows you to edit your sys-clk configuration in-game. Changes are applied almost instantly and can be verified by checking the EdiZon overlay's stats screen.  
-**Author:** [Sun Research University](https://github.com/Sun-Research-University)  
-**Links:** [GitHub](https://github.com/Sun-Research-University/sys-clk-Overlay)  
+**Description:** Syncs the Nintendo Switch time with a list of NTP Servers.  
+**Author:** [nedex](https://github.com/nedex)  
+**Links:** [GitHub](https://github.com/nedex/QuickNTP), [GBATemp](https://gbatemp.net/threads/quickntp-sync-time-using-tesla.561716/)
 
 
 
@@ -40,7 +42,23 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
+### sys-clk-Overlay
+
+**Description:** Allows you to edit your sys-clk configuration in-game. Changes are applied almost instantly and can be verified by checking the EdiZon overlay's stats screen.  
+**Author:** [Sun Research University](https://github.com/Sun-Research-University)  
+**Links:** [GitHub](https://github.com/Sun-Research-University/sys-clk-Overlay)  
+
+
+
 ## General Utilities
+
+### EdiZon
+
+Description: Overlay version of WerWolv's EdiZon save management/editing tool.  
+Author: [WerWolv](https://github.com/WerWolv)  
+Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATemp](https://gbatemp.net/threads/tesla-the-nintendo-switch-overlay-menu.557362/)  
+
+
 
 ### emuiibo
 
