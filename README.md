@@ -42,11 +42,11 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 ## General Utilities
 
-### TextReaderOverlay-NX
+### emuiibo
 
-**Description:** A Text Reader Overlay for Nintendo Switch  
-**Author:** [Dickson Wong](https://github.com/diwo)  
-**Links:** [GitHub](https://github.com/diwo/TextReaderOverlay-NX)
+**Description:** Virtual amiibo (amiibo emulation) system  
+**Author:** [XorTroll](https://github.com/XorTroll)  
+**Links:** [GitHub](https://github.com/XorTroll/emuiibo)
 
 
 
@@ -55,6 +55,22 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 **Description:** Share your last screenshot while ingame  
 **Author:** [HookedBehemoth](https://github.com/HookedBehemoth)  
 **Links:** [GitHub](https://github.com/HookedBehemoth/ShareNX-Overlay)
+
+
+
+### sys-tune
+
+**Description:** Background audio player  
+**Author:** [HookedBehemoth](https://github.com/HookedBehemoth)  
+**Links:** [GitHub](https://github.com/HookedBehemoth/sys-tune)
+
+
+
+### TextReaderOverlay-NX
+
+**Description:** A Text Reader Overlay for Nintendo Switch  
+**Author:** [Dickson Wong](https://github.com/diwo)  
+**Links:** [GitHub](https://github.com/diwo/TextReaderOverlay-NX)
 
 
 
@@ -74,3 +90,12 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 **Author:** [nastys](https://github.com/nastys)  
 **Links:** [GitHub](https://github.com/nastys/MEGAHAKUS)
 
+
+
+## Fun & PoC
+
+### snek
+
+**Description:** Snake overlay.  
+**Author:** [d3st1nyh4x](https://github.com/d3st1nyh4x)  
+**Links:** [GitHub](https://github.com/d3st1nyh4x/snek)
