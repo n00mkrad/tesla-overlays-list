@@ -48,6 +48,12 @@
 **Author:** [Sun Research University](https://github.com/Sun-Research-University)  
 **Links:** [GitHub](https://github.com/Sun-Research-University/sys-clk-Overlay)  
 
+### sys-ftpd-ovl
+
+**Description:** Fast way to get IP address for ftp connection.  
+**Author:** [SegFault42](https://github.com/SegFault42)  
+**Links:** [GitHub](https://github.com/SegFault42/sys-ftpd-ovl), [GBATemp](https://gbatemp.net/threads/sys-ftpd-ovl.566812/)
+
 
 
 ## General Utilities
