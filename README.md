@@ -110,6 +110,14 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
+### Smash Ultimate Training Modpack
+
+**Description:** Overlay menu for interacting with the Training Mode enhancing mods in Smash Ultimate.  
+**Author:** [jugeeya](https://github.com/jugeeya)  
+**Links:** [GitHub](https://github.com/jugeeya/UltimateTrainingModpack)
+
+
+
 ## Fun & PoC
 
 ### snek
