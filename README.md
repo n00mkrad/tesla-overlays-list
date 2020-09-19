@@ -124,6 +124,14 @@ Links: [Direct Download](http://werwolv.net/downloads/EdiZonOverlay.zip), [GBATe
 
 
 
+### Fire Emblem Three Houses Overlay
+
+**Description:** Overlay menu for Fire Emblem Three Houses
+**Author:** [3096](https://github.com/3096)
+**Links:** [GitHub](https://github.com/3096/feth-overlays)
+
+
+
 ## Fun & PoC
 
 ### snek
